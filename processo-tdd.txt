@@ -1,0 +1,5 @@
+O Processo TDD pode ser descrito como iniciando com um teste funcional. Se o teste passar, é possível refatorar a aplicação ou não. A partir da refatoração ou da não passagem do teste funcional, se entra no ciclo dos testes de unidade. 
+
+Nesse ciclo, o programador escreve um teste de unidade, testa, e, enquanto ele não passar, ele vai escrevendo código mínimo até o teste passar. No momento em que o teste passar, ele tem a opção de refatorar o código e entrar no ciclo de novo. Esse ciclo dos testes de unidade se repete até o teste funcional finalmente passar. 
+
+Assim, o processo TDD continua, com a adição de código mínimo seguido de testes funcionais e de unidade para garantir o funcionamento do sistema do ponto de vista do programador e do usuário.
