@@ -1,0 +1,3 @@
+- Testes de unidade testam métodos em uma classe, enquanto os testes funcionais testam uma funcionalidade do sistema em si.
+
+- Testes de unidade possuem o objetivo de testar se o código de determinados métodos estão funcionando de acordo com o esperado, do ponto de vista do programador. Os testes funcionais possuem o objetivo de testar se o sistema está funcionando como o esperado, do ponto de vista do usuário.
